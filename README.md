@@ -1,19 +1,16 @@
 # FormulaPro (previously "EEPro Nspire").
 
-### This is a [TI-Planet.org](http://tiplanet.org) project.
-### Announce topic here : [FR](http://tiplanet.org/forum/viewtopic.php?t=8446) / [EN](http://tiplanet.org/forum/viewtopic.php?f=50&t=8455)
-### Google Groups "tinspire" topic : [here](https://groups.google.com/forum/#!topic/tinspire/dYWb0poANyo).
+### This is a continuation of a [TI-Planet.org](http://tiplanet.org) project.
+
 
 
 ### Licence : [LGPL3](http://www.gnu.org/licenses/lgpl.html)
 
 
 ## Who .... ?
-For now, The two main developers are Jim Bauwens and Adrien Bertrand ("Adriweb")
+For now, The main developer is Conner Barnes and previous developers are Jim Bauwens and Adrien Bertrand ("Adriweb")
 We also would like to thank Levak for his animation API and Nick Steen for the Resistor Reference part.
 Many thanks too to Critor, Excale, NeoCrisis ... and TI of course :)
-
-We welcome everybody, so if you want to help us, contact us by email (see down there)
 
 ## What .... ?
 ### Please READ (and comment if you want) this reference document : [Link](https://docs.google.com/document/d/1LBjZiKBB3k_bAIDWjTVRH9zTrX5DUQZ6BOXLhKveqJk/edit).
@@ -40,14 +37,6 @@ Please refer to the document linked in the previous paragraph.
 At the same time, if you don't wish to be involved in a big thing, you can help with some of the Reference parts :-)
 
 Then, the *big* part is the Analysis one, which we'll focus on later. (See the [EEPro Manual](http://tiplanet.org/modules/archives/eepro.pdf))
-
-## Meet us on IRC :
-- Here [via Mibbit](http://mibbit.com/chat/#eepronspire@efnet).
-- Directly on your IRC client : EFNet Server, #eepronspire channel.
-
-
-__Contact : info @ tiplanet . org__
-
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/adriweb/eepro-for-nspire/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
